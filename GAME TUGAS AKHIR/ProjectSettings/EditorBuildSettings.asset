@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: f0cca85e028be2c47afada16266b54c4
+  - enabled: 1
+    path: Assets/Scenes/game level.unity
+    guid: 0f672bd57cd15c8408a6c751121c7698
+  - enabled: 1
+    path: Assets/Scenes/belajar.unity
+    guid: 95efaf13539aafd48ba837c461c20370
+  - enabled: 1
+    path: Assets/Scenes/bermain.unity
+    guid: 04348d238953417439b3195763aabff7
+  - enabled: 1
+    path: Assets/Scenes/game_simulasi.unity
+    guid: 39b939ed48ecd0f468093db81d5602ca
+  - enabled: 1
+    path: Assets/Scenes/game_simulasi_lampu.unity
+    guid: fb559b092fb21854186985d4752cd115
+  - enabled: 1
+    path: Assets/Scenes/GameRambu.unity
+    guid: 9d7002007238b8c4ca867b1c8e973c21
+  - enabled: 0
+    path: Assets/Scenes/game_simulasi_rambu.unity
+    guid: 1289a2c2c944c6944925396c90169277
+  - enabled: 1
+    path: Assets/Scenes/rambu_peringatan.unity
+    guid: 6e4dcd3aca881454db25d4b3693b2274
+  - enabled: 1
+    path: Assets/Scenes/rambu_larangan.unity
+    guid: 0dfc82ea2a690234aac5d9eb9039a266
+  - enabled: 1
+    path: Assets/Scenes/rambu_perintah.unity
+    guid: ab85b12ccf7908c45ad94847c939ae7e
+  - enabled: 1
+    path: Assets/Scenes/rambu_petunjuk.unity
+    guid: f7f6a2893b00b684f92716db0e979267
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
